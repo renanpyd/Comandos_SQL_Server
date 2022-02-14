@@ -1,2 +1,4 @@
 # Comandos_SQL_Server
-Alguns comandos úteis que já utilizei, para agilizar o trabalho de criação de queries
+
+Este repositório tem como objetivo armazenar e disponibilizar Queries, Procedures, Triggers e scripts SQL para consulta.
+Alguns comandos úteis que já utilizei, para agilizar o trabalho de criação de queries.
